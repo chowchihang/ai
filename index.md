@@ -7,19 +7,19 @@
 
 > 人工智能门户（PC）
 >
-> https://xd.adobe.com/view/90aa9f0f-7017-48c9-b803-064ff170cf11-c5f9/?fullscreen
+> <https://xd.adobe.com/view/90aa9f0f-7017-48c9-b803-064ff170cf11-c5f9/?fullscreen>
 
 <br>
 
 > 人工智能门户（移动端）
 >
-> https://xd.adobe.com/view/d97d8d8d-0a68-458a-98b0-f83141be1003-8c2e/?fullscreen
+> <https://xd.adobe.com/view/d97d8d8d-0a68-458a-98b0-f83141be1003-8c2e/?fullscreen>
 
 <br>
 
 > 人工智能后台管理系统
 >
-> https://xd.adobe.com/view/887116c9-a9b4-445e-8625-ce42d821f341-dd22/?fullscreen
+> <https://xd.adobe.com/view/887116c9-a9b4-445e-8625-ce42d821f341-dd22/?fullscreen>
 
 <br>
 <br>
