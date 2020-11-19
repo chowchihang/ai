@@ -5,28 +5,30 @@
 更新时间：2020-11-04<br>
 <br>
 <br>
+
 > 人工智能门户（PC）
 >
 > https://xd.adobe.com/view/90aa9f0f-7017-48c9-b803-064ff170cf11-c5f9/?fullscreen
+
 <br>
 <br>
+
 > 人工智能门户（移动端）
 >
 > https://xd.adobe.com/view/d97d8d8d-0a68-458a-98b0-f83141be1003-8c2e/?fullscreen
 
-
+<br>
+<br>
 
 > 人工智能后台管理系统
 >
 > https://xd.adobe.com/view/887116c9-a9b4-445e-8625-ce42d821f341-dd22/?fullscreen
 
-
-
-
+<br>
+<br>
 
 ## 更新日志
-
-
+<br>
 
 #### v1.2.3
 
@@ -60,14 +62,13 @@
 
 留言咨询：我的咨询历史页面，修复页面组件层级错位问题
 
-
+<br>
 
 后台管理系统：
 
 AI 标准管理：修改面包屑名称错误问题
-
-
-
+<br>
+<br>
 
 
 #### v1.2.2
