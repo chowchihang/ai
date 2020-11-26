@@ -3,7 +3,6 @@
 <a href="https://chowchihang.github.io/ai/dgtc_changelog.html" target="_blank">原型更新日志</a>（v1.0，2020-11-26）
 
 <br>
-<br>
 
 ## 【2020-11】人工智能技术标准研究及公共支撑服务平台
 
